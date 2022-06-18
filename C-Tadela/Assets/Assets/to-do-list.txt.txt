@@ -1,0 +1,1 @@
+due to changing card template need to update objects' sprites
