@@ -1,0 +1,5 @@
+# ignore unity artifacts
+**/Library
+**/UserSettings
+# ignore unity logs
+**/Logs
